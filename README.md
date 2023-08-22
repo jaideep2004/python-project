@@ -3,6 +3,8 @@
 
 This is a Python script for scraping product data from Amazon web pages. The script reads HTML files containing product information, extracts relevant data using BeautifulSoup, and then exports the data to JSON and CSV formats.
 
+*****Main files are pythonproject.py, python2.py and combined_data.csv
+
 ## Getting Started
 
 These instructions will help you get a copy of the project up and running on your local machine.
